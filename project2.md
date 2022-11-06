@@ -35,7 +35,7 @@ Conceptually, a merge sort works as follows:
     |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
     ||16||21||11|||8||12||22
     |We combine them in binary order to merge||16|21||11|||8||12|22
-    |We combine them in binary order again.|||11|16|21|||8|12|22||
+    |We combine them in binary orderto merge again.|||11|16|21|||8|12|22||
     |In the final combine we get our array.|||8|11|12|16|21|22|||
 ---
 * ***Solution of the second problem***
