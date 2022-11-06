@@ -41,6 +41,7 @@ Sorting is typically done in-place, by iterating up the array, growing the sorte
     2 16 22 27 | 18 6 
    ```
    Step 5: 2 16 22 27 sequential data is compares with 18. 18 is greather than 2 and 16; less than 22 and therefore less than 27 either. 18 takes its place in the data. Now our data looks like this:
+   ```
     2 16 18 22 27 | 6
    ```
    Step 6: 2 16 18 22 27 sequential data is compares with 6. 6 is greater than 2, less than 16 and therefore less then the rest of data either. 6 takes its place in the data. Now our data looks like this:
