@@ -27,7 +27,7 @@ Sorting is typically done in-place, by iterating up the array, growing the sorte
     22 | 27 16 2 18 6
    ```
 
-   Step 2: 22 and 27 datas are compares. Since 22 is more less than 27, the first two data are complete. No changes are made. Now the data looks like this:
+   Step 2: 22 and 27 datas are compares. Since 22 is less than 27, the first two data are complete. No changes are made. Now the data looks like this:
    ```
     22 27 | 16 2 18 6
    ```
