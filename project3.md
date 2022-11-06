@@ -11,7 +11,7 @@ The complexity analysis of BST shows that, on average, the insert, delete and se
 
 Binary search trees can be used to implement abstract data types such as dynamic sets, lookup tables and priority queues, and used in sorting algorithms such as tree sort.
 
-![Binary Search Tree PNG](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/720px-Binary_search_tree.svg.png)
+![Binary Search Tree PNG](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/500px-Binary_search_tree.svg.png)
 ---
 ```
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] Write the Binary-Search-Tree stages of the sequence
