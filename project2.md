@@ -7,7 +7,7 @@ Conceptually, a merge sort works as follows:
 2. Repeatedly merge sublists to produce new sorted sublists until there is only one sublist remaining. This will be the sorted list.
 
 ![Merge Sort Example PNG](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Merge_sort_algorithm_diagram.svg/300px-Merge_sort_algorithm_diagram.svg.png) ![Merge Sort Animated GIF](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Merge-sort-example-300px.gif/220px-Merge-sort-example-300px.gif)
-
+---
 ```
 [16,21,11,8,12,22] -> Merge Sort
 ```
