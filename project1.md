@@ -21,7 +21,7 @@ Sorting is typically done in-place, by iterating up the array, growing the sorte
 [7,3,5,8,2,9,4,15,6] Write the first 4 steps of this array according to the Insertion Sort.
 ```
 ---
-* ***Solution of first problem***
+* ***Solution of the first problem***
 1. Step 1: Our first number (22) cannot be sorted by itself. Now the data looks like this:
    ```
     22 | 27 16 2 18 6
@@ -59,7 +59,7 @@ Sorting is typically done in-place, by iterating up the array, growing the sorte
    * **Best case:** The number we're looking for is at the very beginning of the array. The full ordered sequence goes over n numbers once and stays with this one pass as there is no need to advance any of them backwards. So it would be O(n) or more correct to say O(1).
 4. 18 is in the scope of the average case because it's in the middle of the data set.
 ---
-* ***Solution of second problem***
+* ***Solution of the second problem***
 
    Step 1:
    ```
