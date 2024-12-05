@@ -10,7 +10,7 @@
     The aim of this project is to explain **Binary Search Tree** and solve the given problems step by step.
 ---
 
-## **In this project i just try to understand algorithms working process.**
+## **Basically in this projects i just try to understand DSA's working process.**
 ---
 
 ### Big O Notation
